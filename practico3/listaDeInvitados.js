@@ -46,8 +46,8 @@ for (let i= 0; i < personas.length; i++) {
     }
     
 }
-console.log(invitadosRechazados);
-console.log(invitadosAdmitidos);
+// console.log(invitadosRechazados);
+// console.log(invitadosAdmitidos);
 
 
 console.log("La lista de invitados admitidos es: ");
